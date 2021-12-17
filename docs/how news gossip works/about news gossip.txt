@@ -1,0 +1,5 @@
+gossip or news about people all over the world
+1.You serach abw ppl
+2.news will appear in the jlist
+3.select news you wana raed from the jlist
+4.more details will appear in the textarea together with a photo
